@@ -1,0 +1,25 @@
+body{
+    background-image: url('no_kt_blur.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav.navbar-expand-lg{
+    background-color: rgba(0,0,0,0);
+    padding-top:10px;
+}
+
+.navbar-brand{
+    padding-left: 100px;
+    font-family: cursive,serif;
+    font-weight: bolder;
+    font-size: x-large;
+    color: darkblue;
+}
+.main_card{
+    width: 1000px;
+    justify-content: center;
+}
+nav.navbar.navbar-expand-lg.navbar-light{
+    background-color: darkblue;
+}
